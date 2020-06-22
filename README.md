@@ -1,11 +1,12 @@
 # Portfolio
 This is a personal website that can be used to showcase your developer skills to recruiters and potential prsopects.
+- https://kuriadev.tech/
 
 ## Intro
 ![kuriadev](https://user-images.githubusercontent.com/61579772/85264867-f0bfec00-b4a3-11ea-8f50-edcecd1cb8f9.jpg)
 
 ## About
-Designing a good website is one thing.I realised hosting a succesful website requires an overall business and developer mindset.
+- Designing a good website is one thing.I realised hosting a succesful website requires an overall business and developer mindset.
 - Below is a few stuff I uncovered while trying to host my personal site that might help you design and host a good responsive website.
  
 
