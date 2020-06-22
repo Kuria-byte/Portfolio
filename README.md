@@ -25,8 +25,15 @@ This is a personal website that can be used to showcase your developer skills to
 
 ## Insight
 - ![speed1](https://user-images.githubusercontent.com/61579772/85267985-7e9dd600-b4a8-11ea-8628-8f393b291ab3.jpg)
-- ![speed](https://user-images.githubusercontent.com/61579772/85268631-56fb3d80-b4a9-11ea-8672-e6c24d62dde9.jpg)
 
+## Tips
+- I used SVG elements since they have lossless quality.
+- I used facebookGraph and Twitter Open Graph API's to extend my SEO descriptions
+- I used Netlify to host my website it is easy to deploy and has my pretty coll web optimization features
+- Add robots.txt file to allow your website to be easily crawled.
+- Minimize JS,CSS & SASS files before deployment or preferably use a CDN.
+- Integrate Google Universal Analytics for better ranking
+- Configure a Content-Security-Policy (CSP) HTTP header to prevent or limit damage caused by an XSS attack and care about someone stealing your content
 
 
 ### References
@@ -35,6 +42,7 @@ This is a personal website that can be used to showcase your developer skills to
 - https://search.google.com/search-console/about
 - https://web.dev/vitals/
 - https://www.searchenginejournal.com/google-now-has-6-ways-to-measure-core-web-vitals/370824/
+- https://developers.facebook.com/docs/graph-api/
 
 ### Inspiration ❤
 https://www.ishandeveloper.com/
