@@ -1,6 +1,6 @@
 # Portfolio
-This is a personal website that can be used to showcase your developer skills to recruiters and potential prsopects.
--https://kuria-developer.netlify.app/
+This is a personal website that can be used to showcase your developer skills to recruiters and potential prospects.
+-[https://kuria-developer.netlify.app/](https://kuriaportflio.netlify.app/)
 
 ## Intro
 ![kuriadev](https://user-images.githubusercontent.com/61579772/85264867-f0bfec00-b4a3-11ea-8f50-edcecd1cb8f9.jpg)
